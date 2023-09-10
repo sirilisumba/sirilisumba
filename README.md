@@ -3,7 +3,7 @@
 <!--
 **sirilisumba/sirilisumba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on a local company in ID
 - 🌱 I’m currently learning anything interesting, that can keep me motivated.
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Discord (SiriliSumba) | TG: (SiriliSumba).
 - 😄 Pronouns: me :)
 - ⚡ Fun fact: I love music and travelling, sports too.
--->
+
