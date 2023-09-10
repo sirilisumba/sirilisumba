@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started: -->
 
+Thanks for reaching out to my profile!
+
 🔭 I’m currently working on a local project from a local organization in ID.
 
 🌱 I’m currently learning anything interesting, that can keep me motivated.
